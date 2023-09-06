@@ -5,7 +5,7 @@ Repository for merge two slabs and register to [AMU7T template](https://github.c
 
 ```python
 
-python SlabsMerge.py --path_image_slab_1 palier1/t1q_aniso_or_cor_den.nii.gz --path_centerline_slab_1 palier1/t1q_aniso_or_cor_den_centerline.nii.gz --path_image_slab_2 palier2/t1q_aniso_or_cor_den.nii.gz --path_centerline_slab_2 palier2/t1q_aniso_or_cor_den_centerline.nii.gz --slice_slab1 21 --slice_slab2 21 --output_path slabs_merged.nii.gz
+python SlabsMerge.py --path_image_slab_1 palier1/image.nii.gz --path_centerline_slab_1 palier1/centerline.nii.gz --path_image_slab_2 palier2/image.nii.gz --path_centerline_slab_2 palier2/centerline.nii.gz --slice_slab1 21 --slice_slab2 21 --output_path slabs_merged.nii.gz
 
 ```
 
