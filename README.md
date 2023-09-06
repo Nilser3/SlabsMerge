@@ -1,7 +1,7 @@
 # SlabsMerge funtion 
 Repository for merge two slabs and register to [AMU7T template](https://github.com/spinalcordtoolbox/template_AMU7T)
 ![Slabs](https://github.com/Nilser3/SlabsMerge/assets/77469192/4ada80e9-dba8-4028-b8b1-36f3fc72c3fc)
-## SlabsMerge function usage
+## Usage
 
 ```python
 
